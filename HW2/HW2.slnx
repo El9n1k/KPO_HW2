@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="HW2.Host/HW2.Host.csproj" />
+  <Project Path="HW2.Infrastructure/HW2.Infrastructure.csproj" />
+  <Project Path="HW2.Models/HW2.Models.csproj" />
+  <Project Path="HW2.Presentation/HW2.Presentation.csproj" />
+  <Project Path="HW2.Tests/HW2.Tests.csproj" />
+  <Project Path="HW2.UseCases/HW2.UseCases.csproj" />
+</Solution>

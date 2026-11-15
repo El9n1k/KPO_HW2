@@ -1,0 +1,5 @@
+[
+  { "StudentId": "9f8788d0-a2b1-41e9-a35e-1f395d475294", "Name": "ivan",    "Surname": "ivanov",    "CriteriaName": "brain",  "Mark": 9 },
+  { "StudentId": "c8e896b5-7bff-4f95-b78d-b87562750d38", "Name": "masha", "Surname": "kuznetsova", "CriteriaName": "brain",  "Mark": 10 },
+  { "StudentId": "c8e896b5-7bff-4f95-b78d-b87562750d38", "Name": "masha", "Surname": "kuznetsova", "CriteriaName": "beauty", "Mark": 10 }
+]
